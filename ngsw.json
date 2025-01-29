@@ -1,0 +1,65 @@
+{
+  "configVersion": 1,
+  "timestamp": 1738190800480,
+  "index": "/pst/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/pst/chunk-FRCLC2HG.js",
+        "/pst/chunk-JXMX4F2G.js",
+        "/pst/index.html",
+        "/pst/main-BEH5LARN.js",
+        "/pst/polyfills-FFHMD2TL.js",
+        "/pst/styles-MHK3UEPU.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/pst/assets/epson-transparent_1.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/pst/assets/epson-transparent_1.png": "863b26864f38a477be5b2b3b79e02fca0b96106c",
+    "/pst/chunk-FRCLC2HG.js": "1aa42eb6e7bf6f53c4eee9ab9fc635da0f8870f5",
+    "/pst/chunk-JXMX4F2G.js": "c589342311bf444e569bd7287d5a93af386e6587",
+    "/pst/index.html": "df84693fc0795d3116b4aab4b3568a1484e4f362",
+    "/pst/main-BEH5LARN.js": "11e26a41394858809c69ee71b65afca69a42f6f3",
+    "/pst/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "/pst/styles-MHK3UEPU.css": "fa99c5f709050d4ef75eb5eef0fae909a8f340f6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

@@ -1,0 +1,10 @@
+{
+	"PaperRollCost": 1.35,
+	"PaperRollLength": 230,
+	"PaperRollGrammage": 55,
+	"Units": "imperial",
+	"RenewalPeriod": 5,
+	"PrintingVolume": 100,
+	"AverageReceiptLength": 12,
+	"TotalNumberOfPrinters": 50
+}
