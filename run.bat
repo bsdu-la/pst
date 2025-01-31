@@ -1,1 +1,0 @@
-start /d "./assets/webServer" RebexTinyWebServer.exe
